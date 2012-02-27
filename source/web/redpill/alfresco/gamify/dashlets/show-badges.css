@@ -1,0 +1,36 @@
+.badge {
+	display: inline-block;
+	width: 90px;
+	height: 90px;
+	text-align: center;
+	font-family: sans-serif;
+	color: black;
+	font-size: smaller;
+	vertical-align: middle;
+	background-repeat: no-repeat;
+	background-position:bottom center;
+	background-position-x: -12px;
+	margin: 2px;
+	margin-left: 1px;
+	margin-right: 1px;
+	padding: 4px;
+}
+
+.badge:hover {
+	color: gray;
+}
+
+.document_junkie {
+	background-color: red;
+	background-image: url("./badges/bronze.png");
+}
+
+.red_alert {
+	background-color: blue;
+	background-image: url("./badges/hot.png");
+}
+
+.newbie {
+	background-color: gold;
+	background-image: url("./badges/user.png");
+}

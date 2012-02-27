@@ -1,0 +1,7 @@
+<webscript>
+   <shortname>Show Badges</shortname>
+   <description>Displays the users achievements as a dashlet.</description>
+   <!-- one of dashlet, site-dashlet or user-dashlet -->
+   <family>dashlet</family>
+   <url>/redpill/alfresco/gamify/dashlets/show-badges</url>
+</webscript>
