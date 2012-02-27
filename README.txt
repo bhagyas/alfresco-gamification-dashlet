@@ -1,10 +1,12 @@
 Alfresco Gamification dashlet for Alfresco Share
-======================================
+================================================
 
 Author: Bhagya Silva
 
 Installation
 ------------
+
+*Please note the file names could be different from the ones below.*
 
 The add-on has been developed to install on top of an existing Alfresco
 3.3 installation.
